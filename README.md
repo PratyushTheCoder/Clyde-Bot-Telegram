@@ -5,8 +5,9 @@ Clyde bot is a baby bot that is still under developement, once the development o
 ## Status
 <Br>
 Running: false<br>
-Responce: flase
-<Br>
+Responce: flase<br>
+
+
 ## Commands
 <Br>
 /youtube [video link] - get the info of a youtube video<br>
