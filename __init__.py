@@ -17,7 +17,7 @@ logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
-token = os.getenv('token')
+token = os.getenv('token') # Add your token in a env file and then run
 updater = Updater(token,use_context=True)
 
 
